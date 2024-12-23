@@ -59,14 +59,14 @@ assign b= ( y2 | y3 | y6 | y7);
 assign c= ( y1 | y3 | y5 | y7);
 endmodule
 ```
-Developed by: Pradhagini A RegisterNumber: 24901125
+Developed by: Pradhagini A RegisterNumber: 212224050031
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
 ![exp5 encoder](https://github.com/user-attachments/assets/ac856698-43e2-45d4-a6f9-c8104136acf2)
 
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**TIMING DIGRAM FOR Encoder 8 To 3 in Dataflow Modelling**
 
 ![exp5 enc wf](https://github.com/user-attachments/assets/a0221089-1760-4104-8e02-2a6ba29dca25)
 
